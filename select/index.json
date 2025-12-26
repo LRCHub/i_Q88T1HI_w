@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Together Forever",
+  "base_artist": "Rick Astley",
+  "createdAt": "2025-12-26T03:41:42.447936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Together Forever (The Cyber Pet Song)",
+      "artist": "Daze",
+      "has_synced": false,
+      "path": "select/01_Together_Forever_(The_Cyber_Pet_Song)_Daze.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Together Forever",
+      "artist": "Stryper",
+      "has_synced": false,
+      "path": "select/02_Together_Forever_Stryper.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let's Stay Together (Together Forever)",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/03_Let's_Stay_Together_(Together_Forever)_Run-DMC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let's Stay Together (Together Forever)",
+      "artist": "Run‐D.M.C.",
+      "has_synced": true,
+      "path": "select/04_Let's_Stay_Together_(Together_Forever)_Run‐D.M.C..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Together Forever (Krush-Groove 4) (live)",
+      "artist": "Run-D.M.C.",
+      "has_synced": false,
+      "path": "select/05_Together_Forever_(Krush-Groove_4)_(live)_Run-D.M.C..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Together Forever (Krush-Groove 4) (live)",
+      "artist": "Run‐D.M.C.",
+      "has_synced": false,
+      "path": "select/06_Together_Forever_(Krush-Groove_4)_(live)_Run‐D.M.C..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Together Forever",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/07_Together_Forever_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Together Forever",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/08_Together_Forever_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Together, Forever, Always",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/09_Together,_Forever,_Always_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Together Forever - Lover's Leap Remix",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/10_Together_Forever_-_Lover's_Leap_Remix_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Together Forever",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/11_Together_Forever_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Together Forever (Krush-Groove 4) (live)",
+      "artist": "Run‐D.M.C.",
+      "has_synced": true,
+      "path": "select/12_Together_Forever_(Krush-Groove_4)_(live)_Run‐D.M.C..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Together Forever",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/13_Together_Forever_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Together Forever",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/14_Together_Forever_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Together Forever",
+      "artist": "Daze",
+      "has_synced": false,
+      "path": "select/15_Together_Forever_Daze.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Together Forever",
+      "artist": "Rick Astley",
+      "has_synced": false,
+      "path": "select/pl_01_Together_Forever_Rick_Astley.txt"
+    }
+  ]
+}
